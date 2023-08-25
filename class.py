@@ -4,9 +4,9 @@ class GFG:
         self.city = city
 
     def show(self):
-        print("Hello my name is " + self.name + " and " +
+        print("Hello my name is " + self.name + " and my" +
               " city " + self.city + ".")
 
 
-obj = GFG("subash", "trichy")
+obj = GFG("John", "Trichy")
 obj.show()
